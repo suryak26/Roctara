@@ -67,11 +67,6 @@ Roctara addresses each of these limitations directly:
 
 ---
 
-## 📸 Project Media
-*(V1 and V2 images/videos go here)*
-
----
-
 ## 🛠️ Tech Stack
 - **Hardware (V2):** N20 high-torque gear motors, EDF suction unit, RF transmitter-receiver 
   module, modular chassis
